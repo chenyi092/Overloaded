@@ -1,3 +1,4 @@
+[繁體中文](./README_zh.md) | [日本語](./README.md)
 # Overloaded
 **Live Interactive Performance &amp; Generative Art at Taipei C-Lab Dome**
 <p>
